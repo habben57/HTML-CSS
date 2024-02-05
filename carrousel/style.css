@@ -1,5 +1,5 @@
- /*barre de navigation*/
-.nav-item{
+ 
+.nav-item{              /*barre de navigation*/
     position: relative;
     width: 50%;
     height: 70px;
@@ -10,7 +10,7 @@
    
 }
  
-.dim {    /* reduction slyde*/
+.dim {                   /* reduction slyde*/
     width: 50%;
     height: auto;
     margin-left: auto;
@@ -19,11 +19,11 @@
     border: 0.1rem solid;
 }
  
-.dropdown-menu{      /*menu deroulant avec un fond transparent*/
+.dropdown-menu{         /*menu deroulant avec un fond transparent*/
    opacity: 0.7;
    background-color: #b6b3b6;
 }
-.carousel-caption {    /* font avec contour noir */
+.carousel-caption {     /* font avec contour noir */
     color: white;
     text-shadow:
     -1px -1px 0 #000,
@@ -32,7 +32,7 @@
     1px 1px 0 #000;
    
 }
- body{      /* fond avec effet bi_color*/
+ body{                  /* fond avec effet bi_color*/
     background-image: radial-gradient( #ffd89b,#19547b);
  }
  
